@@ -23,3 +23,8 @@ chmod +x stats.sh
 ```
 bash stats.sh
 ```
+Project URL
+
+```
+https://roadmap.sh/projects/server-stats
+```
